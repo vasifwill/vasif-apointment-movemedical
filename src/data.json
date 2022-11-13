@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "date": "1989-11-09",
+      "time": "12:00pm",
+      "location": "San Diego",
+      "description": "annualy checkup"
+    },
+    {
+      "id": 2,
+      "date": "1989-11-09",
+      "time": "12:00pm",
+      "location": "Portland",
+      "description": "annualy checkup"
+    },
+    {
+      "id": 3,
+      "date": "1989-11-09",
+      "time": "12:00pm",
+      "location": "Seattle",
+      "description": "annualy checkup"
+    }
+  ]
