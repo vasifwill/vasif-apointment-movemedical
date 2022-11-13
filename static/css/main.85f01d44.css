@@ -1,0 +1,2 @@
+.app-container{display:flex;flex-direction:column;gap:10px;padding:1rem}table{border-collapse:collapse;width:100%}td,th{border:1px solid #fff;font-size:32px;padding:8px;text-align:left}th{background-color:#c4d10a}td{background-color:#7eb957}form{display:flex;gap:5px}form td:last-child{display:flex;justify-content:space-evenly}form *{font-size:28px}
+/*# sourceMappingURL=main.85f01d44.css.map*/

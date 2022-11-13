@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vasif-apointment-movemedical/static/css/main.85f01d44.css",
+    "main.js": "/vasif-apointment-movemedical/static/js/main.3402079b.js",
+    "index.html": "/vasif-apointment-movemedical/index.html",
+    "main.85f01d44.css.map": "/vasif-apointment-movemedical/static/css/main.85f01d44.css.map",
+    "main.3402079b.js.map": "/vasif-apointment-movemedical/static/js/main.3402079b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85f01d44.css",
+    "static/js/main.3402079b.js"
+  ]
+}
